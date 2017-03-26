@@ -7,9 +7,8 @@ tl;dr
 - [Metodologia](#metodologia)
 
 ## Objetivo
-// shortbytes
-A idéia aqui é acompanhar meu desenvolvimeto durante o aprendizado da Linguagem
-de programação Python.
+// A idéia aqui é acompanhar meu desenvolvimeto durante o aprendizado da
+Linguagem de programação Python.
 
 
 ## Disclaimer:
@@ -86,4 +85,5 @@ _fluente_ na Linguagem, sera implementado algumas aplicações exemplo:
 
 
 **~Jhonatan**
+
 **:wq**
