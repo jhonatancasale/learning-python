@@ -5,6 +5,7 @@ tl;dr
 - [Disclaimer](#disclaimer)
 - [Proposta de estudo](#proposta-de-estudo)
 - [Metodologia](#metodologia)
+- [Fontes de estudo](#fontes-de-estudo)
 
 ## Objetivo
 // A idéia aqui é acompanhar meu desenvolvimeto durante o aprendizado da
@@ -82,6 +83,23 @@ _fluente_ na Linguagem, sera implementado algumas aplicações exemplo:
 - Implementar um Server para responder "Hello, World!" via web
 - SO calls
 - Paralelismo
+
+
+## Fontes de estudo
+### Livros
+- [Fluent Python](http://shop.oreilly.com/product/0636920032519.do)
+- [Pense em Python](https://penseallen.github.io/PensePython2e/)
+- [Dan Bader's Blog](https://dbader.org/)
+- [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
+    -
+### Cursos
+- [Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos/)
+- [Using Python for Research](https://www.edx.org/course/using-python-research-harvardx-ph526x)
+- [Python Fundamentos para Análise de Dados](http://www.datascienceacademy.com.br/public-course/?courseid=python-fundamentos)
+
+### Tutorials
+- [Python Tutorials](https://www.kaggle.com/wiki/Tutorials)
+- [Python Programming](https://www.youtube.com/watch?v=N4mEzFDjqtA&t=62s)
 
 
 **~Jhonatan**
