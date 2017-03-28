@@ -91,7 +91,7 @@ _fluente_ na Linguagem, sera implementado algumas aplicações exemplo:
 - [Pense em Python](https://penseallen.github.io/PensePython2e/)
 - [Dan Bader's Blog](https://dbader.org/)
 - [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
-    -
+
 ### Cursos
 - [Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos/)
 - [Using Python for Research](https://www.edx.org/course/using-python-research-harvardx-ph526x)
