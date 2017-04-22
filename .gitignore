@@ -90,3 +90,5 @@ ENV/
 
 # Vim tmp files
 *~
+# Additional files from exercism
+remove_exercism_additional_files.sh
