@@ -13,8 +13,8 @@ def word_count(phrase):
     from collections import OrderedDict
     import re
 
-    d = OrderedDict()
-    t = re.compile('[^a-zA-Z0-9]').sub(' ', phrase).lower().split()
-    for word in t:
-        d[word] = t.count(word)
-    return d
+    word_counter = OrderedDict()
+    words = re.compile('[^a-zA-Z0-9]').sub(' ', phrase).lower().split()
+    for word in words:
+        word_counter[word] = words.count(word)
+    return word_counter
