@@ -95,6 +95,7 @@ _fluente_ na Linguagem, sera implementado algumas aplicações exemplo:
 ### Cursos
 - [Introdução à Ciência da Computação com Python Parte 1](https://www.coursera.org/learn/ciencia-computacao-python-conceitos/)
 - [Using Python for Research](https://www.edx.org/course/using-python-research-harvardx-ph526x)
+- [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
 - [Python Fundamentos para Análise de Dados](http://www.datascienceacademy.com.br/public-course/?courseid=python-fundamentos)
 
 ### Tutorials
