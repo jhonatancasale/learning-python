@@ -11,13 +11,13 @@ class Pizza():
     def __init__(self, name, price):
         self.name = name
         self.price = price
-        logging.debug("Pizza created: %s ($%d)" % (self.name, self.price))
+        logging.debug("Pizza created: %s ($%d)", self.name, self.price)
 
     def make(self, quantity=1):
-        logging.debug("Made %d %s pizza(s)" % (quantity, self.name))
+        logging.debug("Made %d %s pizza(s)", quantity, self.name)
 
     def eat(self, quantity=1):
-        logging.debug("Ate %d %s pizza(s)" % (quantity, self.name))
+        logging.debug("Ate %d %s pizza(s)", quantity, self.name)
 
 
 pizza_01 = Pizza("artichoke", 18)
