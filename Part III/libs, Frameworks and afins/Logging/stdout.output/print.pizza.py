@@ -4,13 +4,13 @@ class Pizza():
     def __init__(self, name, price):
         self.name = name
         self.price = price
-        print("Pizza created: {} (${})".format(self.name, self.price))
+        print("Pizza created: %s ($%d)" % (self.name, self.price))
 
     def make(self, quantity=1):
-        print("Made {} {} pizza(s)".format(quantity, self.name))
+        print("Made %d %s pizza(s)" % (quantity, self.name))
 
     def eat(self, quantity=1):
-        print("Ate {} pizza(s)".format(quantity, self.name))
+        print("Ate %d %s pizza(s)" % (quantity, self.name))
 
 
 pizza_01 = Pizza("artichoke", 15)
