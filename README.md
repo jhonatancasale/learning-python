@@ -103,6 +103,9 @@ _fluente_ na Linguagem, sera implementado algumas aplicações exemplo:
 - [Python Tutorials](https://www.kaggle.com/wiki/Tutorials)
 - [Python Programming](https://www.youtube.com/watch?v=N4mEzFDjqtA&t=62s)
 
+### Videos
+- [Learning Python playlist](https://www.youtube.com/playlist?list=PLtE6-fOCnhbA3Dl_KqGv_6iqxlZ7-OUTf)
+
 
 **~Jhonatan**
 
