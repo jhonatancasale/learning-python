@@ -76,6 +76,16 @@ else:
   print('1 < 2')
 ```
 
+## Loops
+```python
+while True:
+  print('Infinite loop')
+
+
+for element in elements:
+  print(element)
+```
+
 ## Basic Data Structures / Estruturas de Dados Simples
 ```python
 ll = []
