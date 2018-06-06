@@ -86,6 +86,43 @@ for element in elements:
   print(element)
 ```
 
+## Modularization (Functions)
+```python
+def foo():
+  pass # returns None
+
+
+def add(a, b):
+  return a + b
+
+
+c = 12
+def foo(a, b):
+  global c
+  c = a + b
+
+foo(1, 2)
+print(c) # 3
+
+
+def add(a: int, b: int) -> int:
+  '''Return a + b'''
+
+  return a + b
+
+
+def foo(func):
+  func()
+
+foo(lambda: print('Hello, world!')) # Hello, world!
+
+
+def foo(func, args):
+  func(*args)
+
+foo(lambda a, b: print(a + b), (1, 3)) # 4
+```
+
 ## Basic Data Structures / Estruturas de Dados Simples
 ```python
 ll = []
