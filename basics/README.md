@@ -18,7 +18,23 @@ true_valus = True
 false_value = False
 ```
 
-## Basic Data Structs / Estruturas de Dados Simples
+## Arithmetic operations
+```python
+1 + 2   # = 3
+1 - 2   # = -1 // 1 + -2 # = -1
+2 * 3   # = 6
+2 / 3   # = 0.6666666666666666
+2 / 2   # = 1.0
+3 // 2  # = 1
+3 % 2   # = 1
+2 ** 3  # = 8
+2 ** .5 # = 1.4142135623730951
+
+from math import sqrt
+2 ** .5 == sqrt(2) # True
+```
+
+## Basic Data Structures / Estruturas de Dados Simples
 ```python
 ll = []
 ll = [1, 2, 3]
@@ -26,3 +42,5 @@ ll = [i for i in range(10) if i % 2]
 ll = [1, 1.02, 1 + 3j, 'a', 'abc', None, True]
 ll = list('Hello, world!') # ['H', 'e', 'l', 'l', 'o', ',', ' ', 'w', 'o', 'r', 'l', 'd', '!']
 ```
+
+
