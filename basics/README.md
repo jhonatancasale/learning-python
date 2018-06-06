@@ -34,6 +34,24 @@ from math import sqrt
 2 ** .5 == sqrt(2) # True
 ```
 
+## Boolean operations
+```python
+True or False   # True
+True and False  # False
+not False       # True
+
+1 > 2           # False
+1 < 2           # True
+1 <= 2          # True
+1 >= 2          # False
+1 == 2          # False
+1 != 2          # True
+
+1 < 2 < 3       # True
+1 < 2 < 3 < 4   # True
+1 > 0 < 2       # True
+```
+
 ## Basic Data Structures / Estruturas de Dados Simples
 ```python
 ll = []
