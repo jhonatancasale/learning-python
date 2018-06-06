@@ -52,6 +52,30 @@ not False       # True
 1 > 0 < 2       # True
 ```
 
+## Decision Structures
+```python
+if 1 > 2:
+  print('1 > 2')
+
+
+if 1 > 2:
+  print('1 > 2')
+else:
+  print('1 < 2')
+
+
+print(f"1 {'<' if 1 < 2 else '>'} 2")
+print('1 {} 2'.format('<' if 1 < 2 else '>'))
+
+
+if 1 > 2:
+  print('1 > 2')
+elif 1 == 2:
+  print('1 = 2')
+else:
+  print('1 < 2')
+```
+
 ## Basic Data Structures / Estruturas de Dados Simples
 ```python
 ll = []
