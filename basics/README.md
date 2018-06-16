@@ -121,6 +121,13 @@ def foo(func, args):
   func(*args)
 
 foo(lambda a, b: print(a + b), (1, 3)) # 4
+
+
+def bar times(a: int, b: int) -> int:
+  return a * b
+
+print(times(**{'a': 2, 'b': 3})) # 6
+print(times(**{'b': 2, 'a': 3})) # 6
 ```
 
 ## Basic Data Structures / Estruturas de Dados Simples
