@@ -95,3 +95,6 @@ remove_exercism_additional_files.sh
 
 # csv files are to big
 *.csv
+
+# mypy
+.mypy_cache
