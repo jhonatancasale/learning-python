@@ -70,14 +70,18 @@ _fluente_ na Linguagem, sera implementado algumas aplicações exemplo:
   - Busca:
     - Busca Linear
     - Busca Binária
+    - Breadth First Search
+    - Depth First Search
+
 - Estruturas de dados:
   - Stack
   - Queue
   - Linked List
-  - Tree (BST)
+  - Tree (Binary)
   - Heap
   - Hash Tables
   - Trie
+  - Vectors / ArrayList
 
 - Integração com Banco de Dados e execução de querys.
 - Implementar um Server para responder "Hello, World!" via web
